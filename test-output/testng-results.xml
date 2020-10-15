@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-11T20:34:15 GST" name="Default suite" finished-at="2020-10-11T20:34:22 GST" duration-ms="6281">
+    <groups>
+    </groups>
+    <test started-at="2020-10-11T20:34:15 GST" name="Default test" finished-at="2020-10-11T20:34:22 GST" duration-ms="6281">
+      <class name="com.learn.rest.TC02_POSTPUTMethod">
+        <test-method signature="postmethod()[pri:0, instance:com.learn.rest.TC02_POSTPUTMethod@7692d9cc]" started-at="2020-10-11T20:34:15 GST" name="postmethod" finished-at="2020-10-11T20:34:21 GST" duration-ms="5313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postmethod -->
+        <test-method signature="putmethod()[pri:0, instance:com.learn.rest.TC02_POSTPUTMethod@7692d9cc]" started-at="2020-10-11T20:34:21 GST" name="putmethod" finished-at="2020-10-11T20:34:22 GST" duration-ms="869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putmethod -->
+      </class> <!-- com.learn.rest.TC02_POSTPUTMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
